@@ -22,7 +22,7 @@ title: Rakhmatullah's notes
 email: rakhmatullahyoga@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! How's life? May we all surrounded by good things and kindness 💪
-baseurl: "/profile" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://rakhmatullahyoga.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rakhmatullah25
 github_username:  rakhmatullahyoga
